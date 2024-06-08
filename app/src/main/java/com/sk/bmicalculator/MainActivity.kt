@@ -14,11 +14,11 @@ import androidx.core.content.ContextCompat
 import kotlin.text.*
 
 class MainActivity : AppCompatActivity() {
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
+        Toast.makeText(this, "Made with Love: shahil-sk", Toast.LENGTH_LONG).show()
 
         val calculate  = findViewById<Button>(R.id.btnCalculate)
         val weightText = findViewById<EditText>(R.id.etWeight)
