@@ -9,6 +9,7 @@ Display Dimensions : Pixel 3
 
 **Screenshots**
 
-<img src="https://github.com/shahil-sk/BMI-Calculator/assets/93572629/478062c5-b4f4-4532-b781-65af3f858c50" width="400" height="900">
-
-<img src="(https://github.com/shahil-sk/BMI-Calculator/assets/93572629/478062c5-b4f4-4532-b781-65af3f858c50" width="400" height="900>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/shahil-sk/BMI-Calculator/assets/93572629/478062c5-b4f4-4532-b781-65af3f858c50" width="400" height="900">
+  <img src="(https://github.com/shahil-sk/BMI-Calculator/assets/93572629/478062c5-b4f4-4532-b781-65af3f858c50" width="400" height="900">
+</div>
