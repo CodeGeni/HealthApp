@@ -11,6 +11,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.cardview.widget.CardView
 import androidx.core.content.ContextCompat
+import kotlin.text.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -41,15 +42,15 @@ class MainActivity : AppCompatActivity() {
 
             clear.setOnClickListener()
             {
-                val WeightCard = findViewById<CardView>(R.id.cvWeight)
-                val HeightCard = findViewById<CardView>(R.id.cvHeight)
-                val ResultCard  = findViewById<CardView>(R.id.cvResult)
+                val weightCard = findViewById<CardView>(R.id.cvWeight)
+                val heightCard = findViewById<CardView>(R.id.cvHeight)
+                val resultCard = findViewById<CardView>(R.id.cvResult)
 
                 calculate.visibility = VISIBLE
                 clear.visibility = INVISIBLE
-                WeightCard.visibility = VISIBLE
-                HeightCard.visibility = VISIBLE
-                ResultCard.visibility = INVISIBLE
+                weightCard.visibility = VISIBLE
+                heightCard.visibility = VISIBLE
+                resultCard.visibility = INVISIBLE
 
                 weightText.text.clear()
                 heightText.text.clear()
@@ -58,14 +59,16 @@ class MainActivity : AppCompatActivity() {
         }
 
     }
-    private fun validateInput(Weight:String?,Height:String?):Boolean {
+
+    private fun validateInput(weight: String?, height: String?): Boolean {
 
         when{
-            Weight.isNullOrEmpty() -> {
+            weight.isNullOrEmpty() -> {
                 Toast.makeText(this,"Enter Your Weight Nigga!",Toast.LENGTH_SHORT).show()
                 return false
             }
-            Height.isNullOrEmpty() ->{
+
+            height.isNullOrEmpty() -> {
                 Toast.makeText(this,"Enter Your Height Mf#@!",Toast.LENGTH_SHORT).show()
                 return false
             }
@@ -75,19 +78,21 @@ class MainActivity : AppCompatActivity() {
 
     private fun calculateInput(bmi:Float)
     {
-        val WeightCard = findViewById<CardView>(R.id.cvWeight)
-        val HeightCard = findViewById<CardView>(R.id.cvHeight)
-        val ResultCard  = findViewById<CardView>(R.id.cvResult)
-        val index = findViewById<TextView>(R.id.tvIndex)
+        val weightCard = findViewById<CardView>(R.id.cvWeight)
+        val heightCard = findViewById<CardView>(R.id.cvHeight)
+        val resultCard = findViewById<CardView>(R.id.cvResult)
+        val indexText = findViewById<TextView>(R.id.tvIndex)
         val result = findViewById<TextView>(R.id.tvResult)
         val info  = findViewById<TextView>(R.id.tvInfo)
 
-        info.setText("(Normal Range is 18.5 - 24.9)")
-        WeightCard.visibility = INVISIBLE
-        HeightCard.visibility = INVISIBLE
-        ResultCard.visibility = VISIBLE
+        weightCard.visibility = INVISIBLE
+        heightCard.visibility = INVISIBLE
+        resultCard.visibility = VISIBLE
 
-        index.setText(bmi.toString())
+        val index = bmi.toString()
+        val msg = "(Normal Range is 18.5 - 24.9)"
+        info.text = msg
+        indexText.text = index
 
         var resultText = ""
         var color = 0
@@ -115,7 +120,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         result.setTextColor(ContextCompat.getColor(this,color))
-        result.setText(resultText)
+        result.text = resultText
     }
 
 }
