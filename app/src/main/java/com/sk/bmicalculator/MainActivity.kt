@@ -14,8 +14,6 @@ import androidx.core.content.ContextCompat
 
 class MainActivity : AppCompatActivity() {
 
-
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -68,7 +66,7 @@ class MainActivity : AppCompatActivity() {
                 return false
             }
             Height.isNullOrEmpty() ->{
-                Toast.makeText(this,"Enter Your Height MF#@!",Toast.LENGTH_SHORT).show()
+                Toast.makeText(this,"Enter Your Height Mf#@!",Toast.LENGTH_SHORT).show()
                 return false
             }
             else -> return true
