@@ -231,6 +231,21 @@
                 android:textColor="@color/text_hint"
                 android:textSize="14sp"
                 android:textStyle="normal" />
+
+            <ImageButton
+                android:id="@+id/about1"
+                android:layout_width="42dp"
+                android:layout_height="46dp"
+                android:background="@color/card_background"
+                android:contentDescription="aboutButton"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.937"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.101"
+                app:srcCompat="@android:drawable/ic_menu_info_details"
+                tools:ignore="" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 

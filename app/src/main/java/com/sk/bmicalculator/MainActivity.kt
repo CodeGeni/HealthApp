@@ -32,8 +32,15 @@ class MainActivity : AppCompatActivity() {
         heightText = findViewById(R.id.etHeight)
         val clear = findViewById<Button>(R.id.btnClear)
         val menu = findViewById<ImageButton>(R.id.about)
+        val menu1 = findViewById<ImageButton>(R.id.about1)
 
         menu.setOnClickListener()
+        {
+            Log.i("info", "Redirect to About Page")
+            startActivity(Intent(this, aboutPage::class.java))
+        }
+
+        menu1.setOnClickListener()
         {
             Log.i("info", "Redirect to About Page")
             startActivity(Intent(this, aboutPage::class.java))
