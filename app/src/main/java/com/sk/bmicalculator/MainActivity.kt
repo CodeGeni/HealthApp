@@ -1,10 +1,14 @@
 package com.sk.bmicalculator
 
+import android.content.Intent
 import android.os.Bundle
+import android.util.Log
 import android.view.View.INVISIBLE
 import android.view.View.VISIBLE
 import android.widget.Button
 import android.widget.EditText
+import android.widget.ImageButton
+import android.widget.Spinner
 import android.widget.TextView
 import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
@@ -14,16 +18,26 @@ import androidx.core.content.ContextCompat
 import kotlin.text.*
 
 class MainActivity : AppCompatActivity() {
+    lateinit var weightText: EditText
+    lateinit var heightText: EditText
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
         Toast.makeText(this, "Made with Love: shahil-sk", Toast.LENGTH_LONG).show()
+        Log.i("info", "Made with Love: shahil-sk")
 
         val calculate  = findViewById<Button>(R.id.btnCalculate)
-        val weightText = findViewById<EditText>(R.id.etWeight)
-        val heightText = findViewById<EditText>(R.id.etHeight)
+        weightText = findViewById(R.id.etWeight)
+        heightText = findViewById(R.id.etHeight)
         val clear = findViewById<Button>(R.id.btnClear)
+        val menu = findViewById<ImageButton>(R.id.about)
+
+        menu.setOnClickListener()
+        {
+            Log.i("info", "Redirect to About Page")
+            startActivity(Intent(this, aboutPage::class.java))
+        }
 
         calculate.setOnClickListener()
         {
@@ -35,6 +49,7 @@ class MainActivity : AppCompatActivity() {
                 val bmi = weight.toFloat()/((height.toFloat()/100)*(height.toFloat()/100))
                 //Converting BMI to 2 digit Decimal
                 val bmi2Digit = String.format("%.2f",bmi).toFloat()
+                Log.i("info", "BMI is : $bmi2Digit")
                 calculate.visibility = INVISIBLE
                 clear.visibility = VISIBLE
                 calculateInput(bmi2Digit)
@@ -42,6 +57,7 @@ class MainActivity : AppCompatActivity() {
 
             clear.setOnClickListener()
             {
+                Log.i("info", "Cleared Data!!")
                 val weightCard = findViewById<CardView>(R.id.cvWeight)
                 val heightCard = findViewById<CardView>(R.id.cvHeight)
                 val resultCard = findViewById<CardView>(R.id.cvResult)
@@ -65,11 +81,13 @@ class MainActivity : AppCompatActivity() {
         when{
             weight.isNullOrEmpty() -> {
                 Toast.makeText(this,"Enter Your Weight Nigga!",Toast.LENGTH_SHORT).show()
+                Log.i("info", "InputArea (Weight) Empty !!")
                 return false
             }
 
             height.isNullOrEmpty() -> {
-                Toast.makeText(this,"Enter Your Height Mf#@!",Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "Enter Your Height Nigga!", Toast.LENGTH_SHORT).show()
+                Log.i("info", "InputArea (Height) Empty !!")
                 return false
             }
             else -> return true
@@ -91,6 +109,7 @@ class MainActivity : AppCompatActivity() {
 
         val index = bmi.toString()
         val msg = "(Normal Range is 18.5 - 24.9)"
+        Log.i("info", msg)
         info.text = msg
         indexText.text = index
 
@@ -121,6 +140,12 @@ class MainActivity : AppCompatActivity() {
 
         result.setTextColor(ContextCompat.getColor(this,color))
         result.text = resultText
+        Log.i("info", resultText)
     }
 
+    override fun onDestroy() {
+        super.onDestroy()
+        weightText.text.clear()
+        heightText.text.clear()
+    }
 }
