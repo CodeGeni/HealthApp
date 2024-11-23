@@ -1,7 +1,7 @@
 # HealthApp
 BMI Calculator - Calculadora de IMC
 
-Titulo do Projeto -  BMI Calculator -- Calculadora IMC
+Titulo do Projeto: Calculadora IMC
 
 1 Diagnostico e Teorização
 
