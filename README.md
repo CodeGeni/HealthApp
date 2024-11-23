@@ -42,16 +42,15 @@ Como fazer: como você realizará esta ação, incluindo os recursos mínimos ne
 Para quem fazer: quem irá participar desta ação;
 Onde fazer: local em que realizará a ação.
 
-Exemplo:
-Objetivo: Desenvolver um aplicativo de controle de vendas até o final do semestre, treinar os funcionários da lanchonete no uso do aplicativo, e reduzir os erros de vendas e controle de estoque. Prazo: até a data X
-Ação 1: Levantamentos de requisitos de software junto á parte envolvida (Data limite para realização da Ação 1)
-Ação 2: Modelar e Desenvolver o aplicativo utilizando tecnologia Android, abordando requisitos como registro de usuários, controle de vendas, e baixa de estoque. (Data limite para realização da Ação 2);
-Ação 3: Testar o aplicativo com dados reais fornecidos pela lanchonete, ajustando funcionalidades conforme o feedback dos colaboradores. (Data limite para realização da Ação 3);
-Ação 4: Realizar reunião de treinamento para os colaboradores da lanchonete no uso do sistema. (Data limite para realização da Ação 4);
-Ação 5: Realizar pesquisa de satisfação com os colaboradores para mensurar o atingimento do objetivo da atividade extensionista. (Data limite para realização da Ação 5);
-(Outras ações que considere pertinente) 
+Período para elaboração do Projeto: Do dia 06/08/2024 até o dia 30/11/2024 ( Prazo limíte estipulado para entrega do trabalho para avaliação na Estácio ).
+Objetivo 1: Descobrir qual seram os requisitos do aplicativo, fazer sua modelagem para o dispositivo android. Como será o visual e o que o App precisa ter. Data Limite (11/09/2024).
+Objetivo 2: Definir qual IDE será utilizada, onde guardar o projeto (Github), qual linguagem será usada para o APP. Linguagem Java ou Kotlin. Data Limite (16/09/2024).
+Objetivo 3: Onde realizar o projeto? Em casa, Co-working ou faculdade? Qual máquina utilizar, notebook ou desktop? Data Limite: (23/09/2024)
+Objetivo 4: Terminar o aplicativo. Data Limite: (28/10/2024)
+Objetivo 5: Testar o aplicativo com a Nutricionista. Data Limite(29/10/2024 até 24/11/2024)
+Objetivo 6: Fazer as mudanças necessárias solicitadas. Data Limite (25/11/2024)
+Objetivo 7: Apresentar o projeto a Estácio fazendo seu upload na plataforama SIA.
 
-                                                               Inserir Texto
 
 2.2 Envolvimento do Publico Participante
 
