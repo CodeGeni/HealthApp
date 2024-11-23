@@ -29,11 +29,7 @@ Resposta: Utilizando o IMC ( Indice de Massa Corporal) ou BMI (Body Mass Index) 
 
 Descrever entre um e três objetivos, no máximo, que devem ser alcançados com o desenvolvimento da atividade de extensão. Os resultados esperados de uma atividade de extensão devem ser claros, específicos, possíveis de serem medidos e com prazo de realização para que a comunidade participe e avalie o alcance dos objetivos. Lembre-se: os objetivos devem ser definidos com verbos de ação (verbo no infinito), de maneira clara, em forma de tópicos (quando for mais de um), correspondentes aos resultados que a atividade de extensão realizada por você pretende alcançar.
 
-Exemplo:
-Desenvolver um aplicativo de controle de vendas até o final do semestre, treinar os funcionários da lanchonete no uso do aplicativo, e reduzir os erros de vendas e controle de estoque.
-(Observe que este(s) objetivo(s) a ser(em) deve(m) ser compatível(is) com as Seções Objetivos, e Objetivos Sociocomunitários do Plano de Aprendizagem dessa Disciplina.) 
-
-                                                             Inserir Texto
+Resposta: O primeiro objetivo e o mais importante é fornecer uma ferramenta de avaliação acessível a população que auxilie na identificação de alteração do IMC e uma possível intervenção quando necessário. O segundo objetivo é estimular os desenvolvedores a criar melhores soluções/aplicativos para o problema identificado, visto que o meu codigo está aberto no github e pode agregar para outros aplicativos futuros para essa área. 
 
 2 - Planejamento para Desenvolvimento da Atividade 
 
