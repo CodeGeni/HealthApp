@@ -50,7 +50,7 @@ Data Limite: -- 16/08/2024 a 26/08/2024
 Objetivo 1: Reunião com a Nutricionista para analisar o resultado da pesquisa de opinião e ver se o assunto é relevante para a communidade local. 
 Data Limite: -- 06/09/2024
 
-Objetivo 2: Reunião para descobrir qual seram os requisitos do aplicativo, fazer sua modelagem para o dispositivo android. Como será o visual do App e o que precisa ter.
+Objetivo 2: Reunião com a Nutricionista para descobrir se o tema é relevante e caso positivo, qual serão os requisitos do aplicativo, fazer sua modelagem para o dispositivo android. Como será o visual do App e o que precisa ter.
 Data Limite: -- 11/09/2024.
 
 Objetivo 3: Definir qual IDE será utilizada, onde guardar o projeto (Github), qual linguagem será usada para o APP. Linguagem Java ou Kotlin. 
