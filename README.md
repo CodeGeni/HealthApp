@@ -51,7 +51,7 @@ Objetivo 3: Onde realizar o projeto? Em casa, Co-working ou faculdade? Qual máq
 Objetivo 4: Terminar o aplicativo. Data Limite: (28/10/2024)
 Objetivo 5: Testar o aplicativo com a Nutricionista. Data Limite(29/10/2024 até 24/11/2024)
 Objetivo 6: Fazer as mudanças necessárias solicitadas. Data Limite (25/11/2024)
-Objetivo 7: Apresentar o projeto a Estácio fazendo seu upload na plataforama SIA.
+Objetivo 7: Apresentar o projeto a Estácio fazendo seu upload na plataforama SIA. Data Limite (30/11/2024)
 
 
 2.2 Envolvimento do Publico Participante
