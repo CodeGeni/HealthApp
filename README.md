@@ -23,11 +23,7 @@ Resposta: Segundo Lancet, que é uma revista renomada por artigos cientificos de
 
 Citar a situação-problema da comunidade e esclarecer de que maneira isto impacta a vida social, educacional, cultural e/ou econômica das pessoas envolvidas. Nesta etapa, você descreverá como os conteúdos estudados na disciplina permitem que ajude esta comunidade a solucionar ou reduzir as queixas identificadas. Aqui, você descobrirá a importância de estudar e como isto pode melhorar a vida das pessoas à sua volta.
 
-Exemplo:
-A implementação de um aplicativo de controle de vendas em Android permitirá um controle do estoque mais preciso e uma gestão correta das vendas, ajudando no controle de caixa. Esta atividade proporciona a aplicação prática de técnicas de programação e design de software, enriquecendo sua formação acadêmica e técnica.
-(Observe que a Demanda sociocomunitária deve ser compatível com as Seções Objetivos, e Objetivos Sociocomunitários do Plano de Aprendizagem dessa Disciplina.) 
-
-                                                               Inserir Texto
+Resposta: Utilizando o IMC ( Indice de Massa Corporal) ou BMI (Body Mass Index) fica mais fácil de identicar a evolução do peso ao longo do tempo. E dessa forma uma intervenção precoce pode evitar que uma pessoa alcance sobrepeso ou obesidade. 
 
 1.4 Objetivos a serem alcançados em relacao a situacao problema identificada.
 
