@@ -124,6 +124,8 @@ outros.
 
 
 
+![IMC ](https://github.com/user-attachments/assets/545407a5-cecd-40c4-b93d-4cd6323f56fa)
+
 
 
 
