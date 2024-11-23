@@ -141,6 +141,6 @@ outros.
 
 
 
-![IMC ](https://github.com/user-attachments/assets/c9ee770b-ba7d-4a8d-8222-d6ca58e013e9)
+
 
 
