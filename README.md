@@ -44,7 +44,7 @@ Onde fazer: local em que realizará a ação.
 
 Resposta: Período para elaboração do Projeto: Do dia 06/08/2024 até o dia 30/11/2024 -- Prazo limíte estipulado para entrega do trabalho para avaliação na Estácio. Data Limite: 16/08 a 26/08/2024.
 
-Pesquisa de Opinião, com a utilizacção de formulário sobre a vantagem de ter uma calculadora de IMC para dispositivo android feita nas academias da SmartFit no Rio de Janeiro.
+Pesquisa de Opinião, com a utilização de formulário sobre a vantagem de ter uma calculadora de IMC para dispositivo android feita nas academias da SmartFit no Rio de Janeiro.
 
 Objetivo 1: Descobrir qual seram os requisitos do aplicativo, fazer sua modelagem para o dispositivo android. Como será o visual do App e o que precisa ter. Data Limite: -- 11/09/2024.
 
