@@ -42,6 +42,8 @@ Como fazer: como você realizará esta ação, incluindo os recursos mínimos ne
 Para quem fazer: quem irá participar desta ação;
 Onde fazer: local em que realizará a ação.
 
+Resposta:
+
 Período para elaboração do Projeto: Do dia 06/08/2024 até o dia 30/11/2024 ( Prazo limíte estipulado para entrega do trabalho para avaliação na Estácio ).
 Objetivo 1: Descobrir qual seram os requisitos do aplicativo, fazer sua modelagem para o dispositivo android. Como será o visual e o que o App precisa ter. Data Limite (11/09/2024).
 Objetivo 2: Definir qual IDE será utilizada, onde guardar o projeto (Github), qual linguagem será usada para o APP. Linguagem Java ou Kotlin. Data Limite (16/09/2024).
