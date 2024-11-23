@@ -9,7 +9,7 @@ Titulo do Projeto -  BMI Calculator -- Calculadora IMC
 
 Descrever as partes envolvidas no projeto, quem é o público da comunidade local envolvido na atividade (incluindo: perfil socioeconômico, escolaridade, gênero, faixa etária, dados sociais e quantidade estimada de participantes, dentre outras informações importantes). Nesta etapa, é importante demonstrar quem são as pessoas envolvidas na sua atividade de extensão. Lembre-se: você escolhe qual público deseja escolher para realizar esta atividade.
 
-Resposta: Esse trabalho foi feito por mim  para uma nutricionista e professora de educação fisica que atende um público variado,  é para comunidade como um todo,  que terá uma calculadora de Indice de Massa Corporal.  Muito importante, por ser um ferramenta para complementar a análise da situação de saúde dos mesmos, porém sempre com auxilio de um profissional da área. O profissional de saúde é indispensável.  
+Resposta: Esse trabalho foi feito por mim  para uma nutricionista e professora de educação fisica que atende um público variado,  é para comunidade como um todo,  que terá uma calculadora de Indice de Massa Corporal. Muito importante, por ser um ferramenta para complementar a análise da situação de saúde dos mesmos, porém sempre com auxilio de um profissional da área. O profissional de saúde é indispensável. O aplicativo estará disponivel em codigo aberto no github para ajudar também outros desenvolvedores à criar novos aplicativos voltados para àrea, lembrando que o applicativo estará na ligua inglesa para ajudar a compreensão universal e pelo fato da nutricionista também fazer atendimentos online para clientes de outros paises.
                                                                      
 
 1.2 Situação Problema Identificada.
