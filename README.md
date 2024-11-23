@@ -9,17 +9,14 @@ Titulo do Projeto -  BMI Calculator -- Calculadora IMC
 
 Descrever as partes envolvidas no projeto, quem é o público da comunidade local envolvido na atividade (incluindo: perfil socioeconômico, escolaridade, gênero, faixa etária, dados sociais e quantidade estimada de participantes, dentre outras informações importantes). Nesta etapa, é importante demonstrar quem são as pessoas envolvidas na sua atividade de extensão. Lembre-se: você escolhe qual público deseja escolher para realizar esta atividade.
 
-Resposta: Esse trabalho foi feito por mim  para uma nutricionista e professora de educação fisica que atende um público variado,  é para comunidade como um todo,  que terá uma calculadora de Indice de Massa Corporal. Muito importante, por ser um ferramenta para complementar a análise da situação de saúde dos mesmos, porém sempre com auxilio de um profissional da área. O profissional de saúde é indispensável. O aplicativo estará disponivel em codigo aberto no github para ajudar também outros desenvolvedores à criar novos aplicativos voltados para àrea, lembrando que o applicativo estará na ligua inglesa para ajudar a compreensão universal e pelo fato da nutricionista também fazer atendimentos online para clientes de outros paises.
+Resposta: Esse trabalho foi feito por mim  para uma nutricionista e professora de educação fisica que atende um público variado,  é para comunidade como um todo,  que terá uma calculadora de Indice de Massa Corporal desenvolvida para android, escrita na programação kotlin. Muito importante, por ser um ferramenta para complementar a análise da situação de saúde dos mesmos, porém sempre com auxilio de um profissional da área. O profissional de saúde é indispensável. O aplicativo estará disponivel em codigo aberto no github para ajudar também outros desenvolvedores à criar novos aplicativos voltados para àrea, lembrando que o applicativo estará na ligua inglesa para ajudar a compreensão universal e pelo fato da nutricionista também fazer atendimentos online para clientes de outros paises.
                                                                      
 
 1.2 Situação Problema Identificada.
 
 Apresentar os problemas identificados na comunidade local que motiva a elaboração desta atividade de extensão. Nesta etapa, deve-se demonstrar de maneira clara a situação-problema vivenciada no local escolhido para realizar a sua atividade. Mas o que é uma situação-problema? É a principal “dor” ou queixa reconhecida na escuta desta comunidade. Você deverá realizar encontros/conversas/trocas/ com os indivíduos ou grupos da comunidade local para identificar quais são estas dores.
 
-Exemplo:
-A Lanchonete enfrenta desafios significativos na gestão das vendas e do seu estoque de matéria prima, devido ao sistema de registro manual, que é propenso a erros e ineficiente. Isto resulta em problemas de previsão de compras de mais matéria prima e erros de controle de caixa. 
-
-                                                                  Inserir Texto
+Resposta: Segundo Lancet, que é uma revista renomada por artigos cientificos de saúde e medicina. Existem mais de 1 Bilhão de pessoas que vivem com obesidade no mundo. (Genebra, 1 de Março de 2024). Conversando com Daniele Schmidt, que é formada em nutrição, ela me relatou que as pessoas que vem aumentando de peso, não percebem está situação a tempo, e quando se dão conta, já estão classificadas com sobrepeso ou obesidade. E o uso de uma ferramenta de fácil acesso para identificar essa situação, permitiria uma ação mais rápida e efetiva para que uma evolução de peso não ocorresse.
 
 1.3 Demanda Socio Comunitaria e motivação academica
 
