@@ -44,11 +44,17 @@ Onde fazer: local em que realizará a ação.
 
 Resposta: Período para elaboração do Projeto: Do dia 06/08/2024 até o dia 30/11/2024 -- Prazo limíte estipulado para entrega do trabalho para avaliação na Estácio.
 Objetivo 1: Descobrir qual seram os requisitos do aplicativo, fazer sua modelagem para o dispositivo android. Como será o visual do App e o que precisa ter. Data Limite: -- 11/09/2024.
+
 Objetivo 2: Definir qual IDE será utilizada, onde guardar o projeto (Github), qual linguagem será usada para o APP. Linguagem Java ou Kotlin. Data Limite: -- 16/09/2024.
+
 Objetivo 3: Onde realizar o projeto? Em casa, Co-working ou faculdade? Qual máquina utilizar, notebook ou desktop? Data Limite: -- 23/09/2024
+
 Objetivo 4: Terminar o aplicativo. Data Limite: -- 28/10/2024
+
 Objetivo 5: Testar o aplicativo com a Nutricionista. Data Limite: -- 29/10/2024 até 24/11/2024.
+
 Objetivo 6: Fazer as mudanças necessárias solicitadas. Data Limite: -- 25/11/2024.
+
 Objetivo 7: Apresentar o projeto a Estácio fazendo seu upload na plataforama SIA. Data Limite: -- 30/11/2024.
 
 
