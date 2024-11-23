@@ -42,23 +42,34 @@ Como fazer: como você realizará esta ação, incluindo os recursos mínimos ne
 Para quem fazer: quem irá participar desta ação;
 Onde fazer: local em que realizará a ação.
 
-Resposta: Período para elaboração do Projeto: Do dia 06/08/2024 até o dia 30/11/2024 -- Prazo limíte estipulado para entrega do trabalho para avaliação na Estácio. Data Limite: 16/08 a 26/08/2024.
+Resposta: Período para elaboração do Projeto: Do dia 06/08/2024 até o dia 30/11/2024 -- Prazo limíte estipulado para entrega do trabalho para avaliação na Estácio. 
 
-Pesquisa de Opinião, com a utilização de formulário sobre a vantagem de ter uma calculadora de IMC para dispositivo android feita nas academias da SmartFit no Rio de Janeiro.
+Pesquisa de Opinião, com a utilização de formulário sobre a vantagem de ter uma calculadora de IMC para dispositivo android feita nas redes de academias Physical, distribuidas nas unidades do Rio de Janeiro.
+Data Limite: -- 16/08/2024 a 26/08/2024
 
-Objetivo 1: Descobrir qual seram os requisitos do aplicativo, fazer sua modelagem para o dispositivo android. Como será o visual do App e o que precisa ter. Data Limite: -- 11/09/2024.
+Objetivo 1: Reunião com a Nutricionista para analisar o resultado da pesquisa de opinião e ver se o assunto é relevante para a communidade local. 
+Data Limite: -- 06/09/2024
 
-Objetivo 2: Definir qual IDE será utilizada, onde guardar o projeto (Github), qual linguagem será usada para o APP. Linguagem Java ou Kotlin. Data Limite: -- 16/09/2024.
+Objetivo 2: Reunião para descobrir qual seram os requisitos do aplicativo, fazer sua modelagem para o dispositivo android. Como será o visual do App e o que precisa ter.
+Data Limite: -- 11/09/2024.
 
-Objetivo 3: Onde realizar o projeto? Em casa, Co-working ou faculdade? Qual máquina utilizar, notebook ou desktop? Data Limite: -- 23/09/2024
+Objetivo 3: Definir qual IDE será utilizada, onde guardar o projeto (Github), qual linguagem será usada para o APP. Linguagem Java ou Kotlin. 
+Data Limite: -- 16/09/2024.
 
-Objetivo 4: Terminar o aplicativo. Data Limite: -- 28/10/2024
+Objetivo 4: Onde realizar o projeto? Em casa, Co-working ou faculdade? Qual máquina utilizar, notebook ou desktop? 
+Data Limite: -- 23/09/2024
 
-Objetivo 5: Testar o aplicativo com a Nutricionista. Data Limite: -- 29/10/2024 até 24/11/2024.
+Objetivo 5: Terminar o aplicativo. 
+Data Limite: -- 28/10/2024
 
-Objetivo 6: Fazer as mudanças necessárias solicitadas. Data Limite: -- 25/11/2024.
+Objetivo 6: Testar o aplicativo com a Nutricionista. 
+Data Limite: -- 29/10/2024 até 24/11/2024.
 
-Objetivo 7: Apresentar o projeto a Estácio fazendo seu upload na plataforama SIA. Data Limite: -- 30/11/2024.
+Objetivo 7: Fazer as mudanças necessárias solicitadas. 
+Data Limite: -- 25/11/2024.
+
+Objetivo 7: Apresentar o projeto a Estácio fazendo seu upload na plataforama SIA. 
+Data Limite: -- 30/11/2024.
 
 
 2.2 Envolvimento do Publico Participante
