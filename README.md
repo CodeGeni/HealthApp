@@ -1,1 +1,1 @@
-Projeto de uma Calculadora de IMC desenvolvida para o projeto da Faculdade da Estácio.
+Projeto de uma Calculadora de IMC desenvolvida para o projeto da Faculdade Estácio.
