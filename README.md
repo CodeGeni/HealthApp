@@ -7,7 +7,9 @@ O primeiro objetivo do projeto e o mais importante, fornecer uma ferramenta de a
 O segundo objetivo é estimular os desenvolvedores a criarem software para esse problema.  Levando em consideração que o meu código está aberto no Github e pode agregar para projetos futuros na área.
 
 
-[3](https://github.com/user-attachments/assets/330dca4c-2a52-4fa0-9c77-1d855a2e5711)![2](https://github.com/user-attachments/assets/306b80b8-dda1-4bd2-9c79-2908f506d1b8)!
+
+![3](https://github.com/user-attachments/assets/dd5740f8-0f58-4f01-86f8-bf7cdf36d866)![2](https://github.com/user-attachments/assets/ba319733-dc39-455e-ac81-df0b03f61333)
+
 
 
 
